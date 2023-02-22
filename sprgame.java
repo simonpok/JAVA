@@ -14,6 +14,7 @@ public class Main{
      //S,P,R
      Scanner inputObj = new Scanner(System.in);
      System.out.println("Please Enter S,P,R");
+     //String userMove = inputObj.next().toUpperCase();
      char userMove = inputObj.next().charAt(0);  
      System.out.println("User pressed>>>>"+userMove);
      
@@ -77,7 +78,7 @@ public class Main{
    {
       System.out.println("You lose");
    }
-   else if
+   else 
    {
       System.out.println("Type the valid input, please!");
    }
