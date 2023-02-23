@@ -8,11 +8,11 @@ public class Main{
        int[] y = {10,20,30};
        
        //System.out.println("Y>>"+y[0] +" "+y[1]);
-      // Scanner inputObj = new Scanner(System.in);
+       //Scanner inputObj = new Scanner(System.in);
        //int number = inputObj.nextInt();
        for(int element : y)
        {
-         System.out.println(element);
+         System.out.println(element); // prints all the elements of y
        }
    
    }
