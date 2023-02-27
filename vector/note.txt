@@ -1,0 +1,1 @@
+"Arrays are like boxes of a fixed size, while Vectors are like expandable boxes that can grow or shrink as needed."
